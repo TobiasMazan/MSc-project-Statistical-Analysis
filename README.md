@@ -1,4 +1,4 @@
-# Statistical-microstructure-characterization-project
+# Statistical-microstructure-analysis-project
 
 __1. Project overview__
 
