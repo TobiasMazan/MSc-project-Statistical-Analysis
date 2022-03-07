@@ -10,3 +10,6 @@ __2. Data collection and preparation__
 
 _2.1. Data collection_
 
+![image](https://user-images.githubusercontent.com/99291264/157104475-5bf24843-a846-49de-93cc-a3cfb504ce68.png)
+
+
