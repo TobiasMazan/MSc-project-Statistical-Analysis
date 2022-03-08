@@ -1,4 +1,4 @@
-# Statistical-microstructure-analysis-project
+# Statistical microstructure analysis project (MSc)
 
 __1. Project overview__
 
