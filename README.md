@@ -10,6 +10,6 @@ Solution utilized graphics editor (GIMP) and GUI statistical analysis packages (
 
 __Resources__
 
-Full project documentation (_Polish_): https://github.com/TobiasMazan/Statistical-microstructure-analysis-project/blob/main/Project%20documentation.pdf 
+Research project documentation (_Polish_): https://github.com/TobiasMazan/Statistical-microstructure-analysis-project/blob/main/Project%20documentation.pdf 
 
 
